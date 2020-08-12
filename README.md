@@ -1,2 +1,0 @@
-# Janko
-Test and learning
