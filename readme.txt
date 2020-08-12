@@ -4,4 +4,8 @@ Git has a mutable index called stage.
 Git tracks changes.
 123
 456
+<<<<<<< HEAD
 lonely
+=======
+789
+>>>>>>> lonely
