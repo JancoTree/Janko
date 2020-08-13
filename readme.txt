@@ -8,4 +8,4 @@ Git tracks changes.
 lonely
 =======
 789
->>>>>>> lonely
+>>>>>>> lonely
